@@ -22,5 +22,3 @@ MaxMSP wird heute im Bereich der elektronischen Komposition sehr häufig verwend
 
 - Programmierumgebung für Musiker
 - [Wikipedia](http://de.wikipedia.org/wiki/Max/MSP)
-
-## Hello Max
