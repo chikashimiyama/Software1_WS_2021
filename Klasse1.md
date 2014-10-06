@@ -13,4 +13,4 @@
 ![](Klasse1/1-10.png)
 
 ---
-- [Hausaufgabe](Klasse1/Hausaufgabe.zip) 
+- [Hausaufgabe](Klasse1/Hausaufgabe.zip)
