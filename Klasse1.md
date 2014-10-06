@@ -13,5 +13,4 @@
 ![](Klasse1/1-10.png)
 
 ---
-- [Objektliste](Klasse1/objekte.maxpat)
-- [Hausaufgabe](Klasse1/Hausaufgabe.maxpat) 
+- [Hausaufgabe](Klasse1/Hausaufgabe.zip) 
