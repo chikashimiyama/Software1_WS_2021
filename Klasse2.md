@@ -1,4 +1,4 @@
-# Klasse1
+# Klasse2
 
 - [Audio Samples](Klasse2/samples.zip)
 
