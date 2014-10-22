@@ -1,6 +1,9 @@
 # Klasse4
 
 
+[Samples](Klasse4/samples.zip)
+
+---
 ![](Klasse4/4-1.png)
 ---
 ![](Klasse4/4-2.png)
