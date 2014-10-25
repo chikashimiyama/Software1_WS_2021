@@ -28,4 +28,22 @@
 ---
 ![](Klasse6/6-12.png)
 ---
+![](Klasse6/6-13.png)
+---
+![](Klasse6/6-14.png)
+---
+![](Klasse6/6-15.png)
+---
+![](Klasse6/6-16.png)
+---
+![](Klasse6/6-17.png)
+---
+![](Klasse6/6-18.png)
+---
+![](Klasse6/6-19.png)
+---
+![](Klasse6/6-20.png)
+---
+![](Klasse6/6-21.png)
+---
 - [Hausaufgabe](Klasse6/Hausaufgabe.zip)

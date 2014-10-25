@@ -28,4 +28,13 @@
 ---
 ![](Klasse5/5-12.png)
 ---
-- [Hausaufgabe](Klasse5/Hausaufgabe.zip)
+![](Klasse5/5-13.png)
+---
+![](Klasse5/5-14.png)
+---
+![](Klasse5/5-15.png)
+---
+![](Klasse5/5-16.png)
+---
+![](Klasse5/5-17.png)
+---

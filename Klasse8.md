@@ -28,4 +28,7 @@
 ---
 ![](Klasse8/8-12.png)
 ---
+![](Klasse8/8-13.png)
+
+---
 - [Hausaufgabe](Klasse8/Hausaufgabe.zip)

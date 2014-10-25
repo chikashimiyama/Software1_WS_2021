@@ -28,4 +28,12 @@
 ---
 ![](Klasse7/7-12.png)
 ---
+![](Klasse7/7-13.png)
+---
+![](Klasse7/7-14.png)
+---
+![](Klasse7/7-15.png)
+---
+![](Klasse7/7-16.png)
+---
 - [Hausaufgabe](Klasse7/Hausaufgabe.zip)
