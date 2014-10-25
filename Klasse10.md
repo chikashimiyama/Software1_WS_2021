@@ -24,8 +24,3 @@
 ---
 ![](Klasse10/10-10.png)
 ---
-![](Klasse10/10-11.png)
----
-![](Klasse10/10-12.png)
----
-- [Hausaufgabe](Klasse4/Hausaufgabe.zip)

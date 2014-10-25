@@ -18,5 +18,3 @@
 ![](Klasse11/11-8.png)
 ---
 ![](Klasse11/11-9.png)
----
-- [Hausaufgabe](Klasse11/Hausaufgabe.zip)

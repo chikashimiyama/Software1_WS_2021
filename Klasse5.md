@@ -1,8 +1,5 @@
 # Klasse5
 
-
-[Samples](Klasse5/samples.zip)
-
 ---
 ![](Klasse5/5-1.png)
 ---
