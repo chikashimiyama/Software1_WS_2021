@@ -35,3 +35,4 @@
 ---
 ![](Klasse5/5-17.png)
 ---
+[Hausaufgabe](Klasse5/hausaufgabe.maxpat.zip)
