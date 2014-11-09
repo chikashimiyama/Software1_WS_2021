@@ -1,5 +1,4 @@
 # Klasse7
-[Guitar sample](Klasse7/guitar.wav.zip)
 ---
 ![](Klasse7/7-1.png)
 ---
