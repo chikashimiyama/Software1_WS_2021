@@ -1,5 +1,5 @@
 # Klasse6
-
+[Guitar sample](Klasse6/guitar.wav.zip)
 ---
 ![](Klasse6/6-1.png)
 ---
