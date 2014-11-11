@@ -43,4 +43,4 @@
 ---
 ![](Klasse6/6-21.png)
 ---
-- [Hausaufgabe](Klasse6/Hausaufgabe.zip)
+- [Hausaufgabe](Klasse6/hausaufgabe.zip)
