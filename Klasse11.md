@@ -27,7 +27,3 @@
 ![](Klasse11/sharp.png)
 ---
 ![](Klasse11/use_sharp.png)
-
-## HA (Model Test 2)
-
-- [Hausaufgabe](Klasse11/HA.zip)
