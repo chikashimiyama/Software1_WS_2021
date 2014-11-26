@@ -18,6 +18,8 @@
 ---
 ![](Klasse10/qlist.png)
 ---
+![](Klasse10/qlist_content.png)
+---
 ![](Klasse10/density.png)
 ---
 
