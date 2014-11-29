@@ -648,7 +648,6 @@
 						"description" : "",
 						"digest" : "",
 						"tags" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontname" : "Arial",
@@ -919,8 +918,8 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 59.0, 32.0, 183.0, 33.0 ],
-									"text" : "Schreiben Sie die Namen der Objekten (10)"
+									"patching_rect" : [ 59.0, 34.0, 183.0, 33.0 ],
+									"text" : "Schreiben Sie die Namen der Objeten (10)"
 								}
 
 							}
