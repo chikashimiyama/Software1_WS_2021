@@ -15,6 +15,10 @@
 
 ![](Klasse12/regler.png)
 
+### Schalter
+
+![](Klasse12/switch.png)
+
 ### Spectrum
 
 ![](Klasse12/spectrum.png)
@@ -53,5 +57,3 @@ detonate
 ### Table
 
 ![](Klasse12/table.png)
-
-###
