@@ -19,7 +19,7 @@
 
 ![](Klasse12/switch.png)
 
-### Spectrum
+### Spektrum
 
 ![](Klasse12/spectrum.png)
 
@@ -57,3 +57,17 @@ detonate
 ### Table
 
 ![](Klasse12/table.png)
+
+
+### LCD
+
+![](Klasse12/lcd.png)
+
+[UPIC System mit LCD](Klasse12/upic.maxpat.zip)
+
+
+### TR-808
+
+![](Klasse12/TR-808.png)
+
+[Software TR-808](Klasse12/TR-808.zip)
