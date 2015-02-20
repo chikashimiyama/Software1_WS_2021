@@ -31,7 +31,7 @@ Die Objekte, die Daten speichern, und ihre relevante Objekte.
 ## play~ , wave~ und groove~
 ![](Klasse13/wiedergaben.png)
 
-## 2d.wave~ 
+## 2d.wave~
 ![](Klasse13/2dwave.png)
 
 
