@@ -1,5 +1,5 @@
 # Software 1 : Max für Einsteiger
-Zeit: Mon. 11:30 - 13:00
+Zeit: Mon. 10:30 - 12:00
 Ort: Studio für Elektronische Musik
 
 [Dr. Chikashi Miyama](http://chikashi.net)
